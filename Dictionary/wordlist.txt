@@ -1,0 +1,14 @@
+Copy Any of These Wordlist Here - 
+
+Rockyou.txt
+CrackStation Dictionary
+Weakpass
+SkullSecurity Wiki
+SecLists Github
+Rulelists
+Built-ins
+HoboRules
+NSARULES
+KoreLogic
+OneRuleToRuleThemAll
+.....
